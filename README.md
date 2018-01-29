@@ -1,1 +1,1 @@
-# Mini-Java-Compiler
+Optimizing MiniJava to MIPS Compiler
